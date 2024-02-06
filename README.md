@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/tusharsingla123/tusharsingla123/assets/101708831/2255697b-b0d5-49a3-85c3-a197a36f4926)
+<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHExeG9yZmk5WUFXVHkxc0xOTTRaTXpCZEdHUXxBQ3Jtc0ttUFAzczU0OU5PZnVlR0o2RXBhWnhDc2FNYVVwZ1NqX3FFYWx3eHRjMEFmM0tfbEhmcm5PZ3lCWnFVSldITmk2cjZJSEtvbWJjVFZ4RjJEaEszQ0lhaDhIM3lOYkJhX3NfQllYazRtZ2V4d3hoX0U5QQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsingla123&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsingla123" /> </p>
