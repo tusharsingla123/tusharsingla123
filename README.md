@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif
-">
+<img align = "right" width="400" alt="coding" src = "https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsingla123&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsingla123" /> </p>
 
