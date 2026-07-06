@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 📫 How to reach me **tushar1468.be21@chitkara.edu.in**
+- 📫 How to reach me **tusharsingla1999@gmail.com**
 
 - ⚡ Fun fact **😊😊**
 
