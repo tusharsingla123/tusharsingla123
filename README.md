@@ -1,25 +1,320 @@
-<h1 align="center">Hi 👋, I'm Tushar Singla</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<div align="center">
 
-<img align = "right" width="400" alt="coding" src = "https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7F5AF0,100:8A2BE2&text=Tushar%20Singla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsingla123&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsingla123" /> </p>
+# Tushar Singla
 
-- 🌱 I’m currently learning **Web development**
+### AI & Software Developer | Full Stack Developer | Azure Cloud | Generative AI
 
-- 📫 How to reach me **tusharsingla1999@gmail.com**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=AI+%26+Software+Developer;Azure+Cloud+Developer;Full+Stack+Developer;Generative+AI+Engineer;Building+Enterprise+Applications)](https://git.io/typing-svg)
 
-- ⚡ Fun fact **😊😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tusharsingla1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar singla" height="30" width="40" /></a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=tusharsingla&style=for-the-badge&color=7F5AF0"/>
+<img src="https://img.shields.io/github/followers/tusharsingla?style=for-the-badge&color=7F5AF0"/>
+<img src="https://img.shields.io/github/stars/tusharsingla?style=for-the-badge&color=7F5AF0"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a></p>
+<a href="mailto:tusharsingla1999@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/>
+</a>
 
+<a href="https://linkedin.com/in/tusharsingla">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
+<a href="https://github.com/tusharsingla">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
 
+</div>
 
+---
+
+# About Me
+
+I'm an **AI & Software Developer at Tata Chemicals**, passionate about building enterprise-grade software solutions powered by **Artificial Intelligence**, **Cloud Technologies**, and **Modern Web Development**.
+
+My work spans the complete software lifecycle—from designing scalable web applications and backend APIs to deploying production-ready solutions on **Microsoft Azure**. I also develop **Generative AI** applications, **RAG-based chatbots**, automation solutions, and analytics dashboards that help improve industrial operations.
+
+---
+
+## Current Responsibilities
+
+- Enterprise Web Application Development
+- Azure Cloud Deployment
+- Generative AI Applications
+- Retrieval-Augmented Generation (RAG)
+- Backend API Development
+- Data Analytics
+- Power BI Dashboards
+- Power Apps & Power Automate
+- SQL Database Design
+- Production Support & Maintenance
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github"/>
+</p>
+
+## AI & Data
+
+- Azure OpenAI
+- Azure AI Search
+- RAG
+- Prompt Engineering
+- LangChain
+- Machine Learning
+- Data Analytics
+- Power BI
+- Power Apps
+- Power Automate
+
+---
+
+# AI & Software Expertise
+
+| Domain | Experience |
+|---------|------------|
+| Full Stack Development | ⭐⭐⭐⭐⭐ |
+| Azure Cloud | ⭐⭐⭐⭐⭐ |
+| Generative AI | ⭐⭐⭐⭐⭐ |
+| REST APIs | ⭐⭐⭐⭐⭐ |
+| React | ⭐⭐⭐⭐⭐ |
+| Angular | ⭐⭐⭐⭐ |
+| FastAPI | ⭐⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐⭐ |
+| Data Analytics | ⭐⭐⭐⭐⭐ |
+| Machine Learning | ⭐⭐⭐⭐ |
+
+---
+
+# Professional Experience
+
+## AI & Software Developer
+
+**Tata Chemicals**
+
+**Aug 2025 – Present**
+
+Working on enterprise software and AI solutions for industrial digital transformation.
+
+### Responsibilities
+
+- Developed enterprise web applications
+- Designed scalable backend APIs
+- Deployed applications on Microsoft Azure
+- Built GenAI solutions using Azure OpenAI
+- Developed Retrieval-Augmented Generation (RAG) systems
+- Created Power BI dashboards
+- Built Power Apps solutions
+- Automated business processes
+- Performed data analytics and reporting
+- Managed SQL databases
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>Samarth Sarathi – Enterprise GenAI Platform</b></summary>
+
+Enterprise RAG platform for intelligent document search and conversational AI.
+
+### Technologies
+
+- Angular
+- FastAPI
+- Azure OpenAI
+- Azure AI Search
+- Azure SQL
+- Docker
+
+### Features
+
+- RAG Architecture
+- Intelligent Search
+- Vector Database
+- Authentication
+- Document Processing
+- Analytics Dashboard
+
+</details>
+
+---
+
+<details>
+<summary><b>Crane Connect – Resource Booking System</b></summary>
+
+Enterprise resource allocation platform.
+
+### Technologies
+
+- React
+- FastAPI
+- Azure PostgreSQL
+- Docker
+- JWT
+
+### Features
+
+- Booking Management
+- Calendar Scheduling
+- Approval Workflow
+- Admin Dashboard
+- Role Based Access
+
+</details>
+
+---
+
+<details>
+<summary><b>Vibration Monitoring & Predictive Maintenance</b></summary>
+
+Industrial predictive maintenance platform.
+
+### Technologies
+
+- Python
+- PostgreSQL
+- Power BI
+- Azure
+- Machine Learning
+
+### Features
+
+- Automated Data Pipeline
+- Email Alerts
+- Predictive Analytics
+- Equipment Health Monitoring
+- Dashboard
+
+</details>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharsingla&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsingla&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharsingla&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharsingla&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tusharsingla&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# Current Focus
+
+```yaml
+currently_working_on:
+  - Enterprise AI Applications
+  - Azure Cloud Solutions
+  - Full Stack Development
+  - RAG Chatbots
+
+learning:
+  - AI Agents
+  - Azure AI Foundry
+  - LangGraph
+  - MCP
+
+exploring:
+  - LLMOps
+  - Semantic Search
+  - AI Automation
+
+open_to:
+  - Software Engineering
+  - AI Engineering
+  - Azure Development
+```
+
+---
+
+# Connect with Me
+
+<p align="center">
+
+<a href="mailto:tusharsingla1999@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tusharsingla">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tusharsingla">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### *"Building intelligent software that solves real-world industrial challenges."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6C63FF,50:7F5AF0,100:8A2BE2"/>
