@@ -18,11 +18,11 @@
 <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/tusharsingla">
+<a href="https://www.linkedin.com/in/tusharsingla1">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/tusharsingla">
+<a href="https://github.com/tusharsingla123">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -111,6 +111,10 @@ My work spans the complete software lifecycle—from designing scalable web appl
 | React | ⭐⭐⭐⭐⭐ |
 | Angular | ⭐⭐⭐⭐ |
 | FastAPI | ⭐⭐⭐⭐⭐ |
+| Flask | ⭐⭐⭐⭐⭐ |
+| Django | ⭐⭐⭐⭐⭐ |
+| Nodejs | ⭐⭐⭐⭐⭐ |
+| Mongodb | ⭐⭐⭐⭐⭐ |
 | SQL | ⭐⭐⭐⭐⭐ |
 | Data Analytics | ⭐⭐⭐⭐⭐ |
 | Machine Learning | ⭐⭐⭐⭐ |
