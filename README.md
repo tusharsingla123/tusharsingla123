@@ -18,7 +18,7 @@ AI & Software Engineer
 </a>
 
 <a href="https://portfolio-tushar-singla.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7F5AF0?style=for-the-badge" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
