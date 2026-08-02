@@ -220,45 +220,6 @@ Industrial predictive maintenance platform.
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tusharsingla123&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tusharsingla123&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharsingla&theme=tokyonight"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharsingla&theme=tokyo-night"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tusharsingla&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
 # Current Focus
 
 ```yaml
