@@ -8,11 +8,6 @@ AI & Software Engineer
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1500&color=7F5AF0&center=true&vCenter=true&repeat=true&width=900&lines=AI+%26+Software+Engineer)
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=tusharsingla&style=for-the-badge&color=7F5AF0"/>
-<img src="https://img.shields.io/github/followers/tusharsingla?style=for-the-badge&color=7F5AF0"/>
-<img src="https://img.shields.io/github/stars/tusharsingla?style=for-the-badge&color=7F5AF0"/>
-</p>
 
 <a href="mailto:tusharsingla1999@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/>
