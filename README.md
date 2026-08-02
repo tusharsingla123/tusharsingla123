@@ -4,7 +4,7 @@
 
 # Tushar Singla
 
-### AI & Software Developer | Full Stack Developer | Azure Cloud | Generative AI
+AI & Software Developer 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=AI+%26+Software+Developer;Azure+Cloud+Developer;Full+Stack+Developer;Generative+AI+Engineer;Building+Enterprise+Applications)
 
