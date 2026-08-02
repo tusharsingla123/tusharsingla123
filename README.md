@@ -32,7 +32,7 @@ AI & Software Engineer
 
 # About Me
 
-I'm an **AI & Software Developer at Tata Chemicals**, passionate about building enterprise-grade software solutions powered by **Artificial Intelligence**, **Cloud Technologies**, and **Modern Web Development**.
+I'm an **AI & Software Engineer at Tata Chemicals**, passionate about building enterprise-grade software solutions powered by **Artificial Intelligence**, **Cloud Technologies**, and **Modern Web Development**.
 
 My work spans the complete software lifecycle—from designing scalable web applications and backend APIs to deploying production-ready solutions on **Microsoft Azure**. I also develop **Generative AI** applications, **RAG-based chatbots**, automation solutions, and analytics dashboards that help improve industrial operations.
 
