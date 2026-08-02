@@ -225,11 +225,11 @@ Industrial predictive maintenance platform.
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharsingla123&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsingla123&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharsingla123&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsingla123&layout=compact&theme=tokyonight" />
 </p>
 
 ---
