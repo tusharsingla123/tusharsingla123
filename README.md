@@ -77,7 +77,7 @@ My work spans the complete software lifecycle—from designing scalable web appl
 ## Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,git,github"/>
 </p>
 
 ## AI & Data
