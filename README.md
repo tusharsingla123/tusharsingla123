@@ -80,6 +80,16 @@ My work spans the complete software lifecycle—from designing scalable web appl
 <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,git,github"/>
 </p>
 
+## Web Development
+- Single Page Applications (SPAs)
+- RESTful API Engineering
+- Client-Side State Management
+- JWT & OAuth Security
+- Responsive UI/UX Design
+- SQL & NoSQL Database Design
+- Server-Side Rendering (SSR)
+- API Middleware & Routing
+
 ## AI & Data
 
 - Azure OpenAI
