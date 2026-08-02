@@ -17,8 +17,8 @@ AI & Software Engineer
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="[https://github.com/tusharsingla123](https://portfolio-tushar-singla.vercel.app/)">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://portfolio-tushar-singla.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7F5AF0?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 </div>
